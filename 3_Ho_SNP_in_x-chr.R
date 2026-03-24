@@ -23,6 +23,7 @@ vcf_filt <- vcf[, -idx]
 
 ####################################################################
 ## Load probe ID for SNPs in x-chr, available from Carrier et al. 2022
+  # https://doi.org/10.1186/s12864-022-08899-6
 x_chr <- read.table("x-chr_SNPs.txt", header=F, sep="\t")
 
 ## Extract SNP IDs from vcf file 
