@@ -10,6 +10,6 @@ Raw genotype data associated with this project have been deposited in the NCBI's
 5. [Genetic relatedness and kinship](https://github.com/VLuzuriaga/pop_gen_managed_caribou/blob/main/5_Genetic_relatedness.R)
 
 <p align="center">
-<img width="425" height="283" alt="image" src="https://github.com/user-attachments/assets/ba812962-07e8-434a-8a7e-f21001914b45" />
+<img width="500" height="3333" alt="image" src="https://github.com/user-attachments/assets/1e77400c-9626-4c53-a4ab-ff9cb04ea3a0" />
 </p>
 For any questions regarding these analyses or the manuscript, please email me: vanessaluzuriagaaveiga(at)gmail.com
